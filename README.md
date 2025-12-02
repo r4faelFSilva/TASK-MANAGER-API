@@ -105,7 +105,7 @@ mvn spring-boot:run
 Para acessar os endpoints de tarefas, é necessário incluir o token JWT no header:
 
 ```
-Authorization: Bearer {seu_token_jwt}
+Authorization: Bearer
 ```
 
 ### Exemplo de Uso
